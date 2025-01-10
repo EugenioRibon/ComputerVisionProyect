@@ -1,5 +1,5 @@
 # **Reconocimiento de Cartas de la Baraja Española y Recomendación de Estrategias para el Mus**
-
+![Autores del Proyecto](portada.png)
 Este proyecto implementa un sistema de visión por computadora para reconocer cartas de la baraja española y calcular probabilidades estratégicas para el juego de Mus. El sistema utiliza una Raspberry Pi con una cámara, OpenCV y Tesseract OCR para procesar imágenes en tiempo real.
 
 ---
